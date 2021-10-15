@@ -65,7 +65,7 @@ function promptUser(){
     ])
     .then((response) =>{
     console.log("Your README was created! Good job!!")
-    writeToFile("Readme.md",markdown(response))
+    writeToFile("Sample.md",markdown(response))
 });
 
 }

@@ -1,43 +1,49 @@
-# Mom 
-https://img.shields.io/badge/license-Mozilla-blue.svg
-# Table of Contents
-* [Description](#Description)
-* [Installation](#Install)
-* [Usage](#Usage)
-* [Contributors](#Contributor)
-* [Test](#Test)
-* [Github](#Github)
-* [Email](#Email)
-* [License](#License)
+# Project Title
 
-# Description
-Mom
+This project is based on creating a Readme generator. 
 
-## Install
-Mom
+## Getting Started
 
-## Usage
-Mom
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Contributors
-Mom
+### Prerequisites
 
-## Test
-Mom
+What things you need to install the software and how to install them.
 
-### License
-    Mozilla
-
-
-## Github
-[Mom](https://github.com/Mom)
-
-## Email
-Mom
+```
+Give examples
+```
 
 
 
 
+## Built With
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Deployed Link
+
+* [See Live Site](#)
 
 
+## Authors
 
+* **YOUR NAME** 
+
+- [Link to Portfolio Site](#)
+- [Link to Github](https://github.com/)
+- [Link to LinkedIn](https://www.linkedin.com/)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License 
+
+## Acknowledgments
+
+* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
+* Inspiration
+* etc
