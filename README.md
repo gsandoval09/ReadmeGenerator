@@ -1,42 +1,33 @@
 # Project Title
 
-This project is based on creating a Readme generator. 
+This project is based on creating a Readme generator. It is created to allow users to easily create a readme file along with custom inputs asking the user a series of questions such as question prompts about the users email, the users github information, and even their type of license they choose to incorporate with their readme file. All this inofrmation is generated at the click of a button once the user has succesffuly entered their information into the terminal. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Simply need to access this app through VS Code. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-
+None.
 
 
 ## Built With
-
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Node.js]
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://gsandoval09.github.io/ReadmeGenerator/)
 
 
 ## Authors
 
-* **YOUR NAME** 
+* **George Sandoval** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Github](https://github.com/gsandoval09)
+- [Link to LinkedIn](www.linkedin.com/in/george-sandoval-4467641b3)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
@@ -44,6 +35,6 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Google
+* w3schools
+* 
