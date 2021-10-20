@@ -37,4 +37,7 @@ This project is licensed under the MIT License
 
 * Google
 * w3schools
-* 
+
+## Screenshot of site
+
+![Image](Readme-gen-pic.png)

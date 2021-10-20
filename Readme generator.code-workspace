@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "ReadmeGenerator",
+			"path": "."
+		},
+		{
+			"path": "..\\ucb-virt-fsf-ft-09-2021-u-lol\\course-content\\09-NodeJS\\homework\\Develop\\utils"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
